@@ -1,6 +1,6 @@
 {
   "eTag": null,
-  "id": "<RECOVERY_SERVICE_VAULT_ID>/backupPolicies/pol-vm-01",
+  "id": "<RECOVERY_SERVICE_VAULT_ID>/backupPolicies/pol-vm-001",
   "location": null,
   "name": "pol-vm-001",
   "properties": {
