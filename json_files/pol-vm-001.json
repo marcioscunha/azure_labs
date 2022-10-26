@@ -2,7 +2,7 @@
   "eTag": null,
   "id": "<RECOVERY_SERVICE_VAULT_ID>/backupPolicies/pol-vm-01",
   "location": null,
-  "name": "pol-vm-01",
+  "name": "pol-vm-001",
   "properties": {
     "backupManagementType": "AzureIaasVM",
     "instantRpDetails": {
