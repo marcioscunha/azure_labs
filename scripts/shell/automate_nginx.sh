@@ -25,4 +25,5 @@
 apt-get update -y && apt-get upgrade -y
 apt-get install -y nginx
 sudo apt-get install stress -y
+sudo stress --cpu 10 --timeout 420 &
 echo "Hello World from host" $HOSTNAME "!" | sudo tee -a /var/www/html/index.html
